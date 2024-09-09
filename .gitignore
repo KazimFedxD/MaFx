@@ -1,0 +1,7 @@
+/.env
+/MaFx.egg-info
+/build
+/dist
+/setup.py
+/test.py
+/venv

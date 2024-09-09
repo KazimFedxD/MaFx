@@ -5,3 +5,8 @@
 /setup.py
 /test.py
 /venv
+/MaFx/__pycache__
+/.gitignore
+.fuse_hidden0000126900000002
+.gitignore
+upload.sh
